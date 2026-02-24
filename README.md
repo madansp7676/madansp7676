@@ -1,9 +1,14 @@
 # 💫 About Me:
 🔭 Java Full Stack Developer trainee at JSpiders
+
 🌱 Building applications with Spring Boot, REST APIs, HTML, CSS, JavaScript, SQL, and Git
+
 👯 Open to collaborating on full-stack real-world projects
+
 🤔 Learning how end-to-end applications are structured and deployed
+
 💬 Ask me about logic building, APIs, and frontend–backend integration
+
 ⚡ Consistency over talent. No shortcuts.
 
 ## 🌐 Socials:
