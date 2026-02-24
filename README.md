@@ -1,6 +1,10 @@
 # 💫 About Me:
-🎓 I’m a Computer Science Engineering student and currently doing a Java Full Stack Internship.<br>💼 I’m aiming to build a strong career in the IT industry by working on real-world software projects.<br>🔭 I’m currently working on<br>Developing web applications using Java, JDBC, Servlets, and frontend technologies, along with mini projects to improve practical skills.<br>🤝 I’m looking to collaborate on<br>Beginner to intermediate level full-stack projects, student startup ideas, and open-source repositories where I can contribute and learn teamwork in development.<br>🫶 I’m looking for help with<br>Improving problem-solving, project architecture, clean coding practices, and understanding how real company production projects are structured.<br>🌱 I’m currently learning<br>Core Java • Advanced Java • SQL • JDBC • Servlets • HTML • CSS • JavaScript • Git & GitHub • Basics of Spring Framework<br>💬 Ask me about<br>Java basics, OOP concepts, beginner web development, interview preparation, and learning roadmap for freshers.<br>🚀 My contributions & goals<br>Practicing daily coding & aptitude<br>Building mini projects regularly<br>Uploading projects on GitHub<br>Preparing for software developer roles<br>Improving communication & teamwork skills<br>⚡ Fun fact<br>I’m also a photographer & cameraman — I debug code in the day and capture moments in the evening
-
+🔭 Java Full Stack Developer trainee at JSpiders
+🌱 Building applications with Spring Boot, REST APIs, HTML, CSS, JavaScript, SQL, and Git
+👯 Open to collaborating on full-stack real-world projects
+🤔 Learning how end-to-end applications are structured and deployed
+💬 Ask me about logic building, APIs, and frontend–backend integration
+⚡ Consistency over talent. No shortcuts.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/madan_s_p?igsh=MTU4ZWRyajNkazYzYg%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/madan-s-p-40b074202) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtube.com/@madansettajana?si=uDVCYuQS8PstVvzm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madansettajana@gmail.com) 
