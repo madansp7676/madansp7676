@@ -9,7 +9,7 @@
 
 💬 Ask me about logic building, APIs, and frontend–backend integration
 
-⚡ Consistency over talent. No shortcuts.
+⚡ Consistency over talent the  key to sucess
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/madan_s_p?igsh=MTU4ZWRyajNkazYzYg%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/madan-s-p-40b074202) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtube.com/@madansettajana?si=uDVCYuQS8PstVvzm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madansettajana@gmail.com) 
